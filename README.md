@@ -90,7 +90,7 @@ Offer an overview of customer engagement, order patterns, and profitability to a
 ```
 project/
 ├── data/
-│   └── sales_data.xlsx                # Raw and processed sales/customer data
+│   └── sales_data.csv                # Raw and processed sales/customer data
 ├── dashboards/
 │   ├── sales_dashboard.twbx           # Tableau workbook for sales insights
 │   └── customer_dashboard.twbx        # Tableau workbook for customer analysis
